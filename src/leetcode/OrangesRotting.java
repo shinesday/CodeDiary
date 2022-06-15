@@ -49,8 +49,6 @@ public class OrangesRotting {
         }
 
       }
-
-
     }
     return freshOranges == 0 ? minutesElapsed : -1;
   }
